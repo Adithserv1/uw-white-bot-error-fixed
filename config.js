@@ -55,7 +55,7 @@ global.packname = "\n\n\n\n\n\n\n🦄🦄🦄 "
 global.author = "Darkexe🔮"
 global.themeemoji = "💎"
 global.reactmoji = "👻"
-global.ownertag = [''] //ur owner tag
+global.ownertag = ['917544012730'] //ur owner tag
 global.ownernummenu = ['917510569273'] //ur owner number in menu and all
 global.watermark = "©𝙳𝚊𝚛𝚔𝚎𝚡𝚎𝚋𝚘𝚝." //ur watermark
 global.botscript = "https://www.youtube.com/watch?v=vXBO1zJbGJ4"
