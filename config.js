@@ -42,7 +42,7 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.owner = ['917510569273'] //ur owner number
-global.ownername = "Adithser"
+global.ownername = "Adithser👻"
 global.ytname = "YT: UW TECH SHOW" //ur yt chanel name
 global.socialm = "Insta: Adith" //ur github or insta name
 global.location = "India" //ur location
@@ -53,9 +53,9 @@ global.websitex = "https://www.youtube.com/channel/UC8CNAgNIXy1O2vLBBSN7tcA" //u
 global.vidmenu = { url: 'https://a.uguu.se/zlzQZvXH.mp4' } //gif and video menu
 global.packname = "\n\n\n\n\n\n\n🦄🦄🦄 "
 global.author = "Darkexe🔮"
-global.themeemoji = "💎"
-global.reactmoji = "👻"
-global.ownertag = ['917544012730'] //ur owner tag
+global.themeemoji = "🔖"
+global.reactmoji = "🤭"
+global.ownertag = ['917510569273'] //ur owner tag
 global.ownernummenu = ['917510569273'] //ur owner number in menu and all
 global.watermark = "©𝙳𝚊𝚛𝚔𝚎𝚡𝚎𝚋𝚘𝚝." //ur watermark
 global.botscript = "https://www.youtube.com/watch?v=vXBO1zJbGJ4"
@@ -103,7 +103,7 @@ global.mess = {
     bot: 'This feature is only for bot',
     wait: 'Ninak enna therak onnu wait chey 😦....',
     linkm: 'Link evide monwu🧐?',
-    error: 'Error!',
+    error: 'Error 🥲!',
     ban: 'You have been banned by the owner, if you want to be unbanned, chat owner.',
     nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
     banChat: 'The bot was banned in this group, please contact the owner to unban'
