@@ -41,23 +41,23 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['917510569273'] //ur owner number
-global.ownername = "Adithser👻"
-global.ytname = "YT: UW TECH SHOW" //ur yt chanel name
-global.socialm = "Insta: Adith" //ur github or insta name
+global.owner = ['917510569273,18198033185,917356886454'] //ur owner number
+global.ownername = "𝘿𝙖𝙧𝙠𝙚𝙭𝙚,𝙎𝙈𝙊𝙊𝙏𝙃 𝙎𝛯𝙍,𝙇𝙤𝙧𝙙 𝙀𝙧𝙚𝙣"
+global.ytname = "" //ur yt chanel name
+global.socialm = "" //ur github or insta name
 global.location = "India" //ur location
 
 //bot bombdy
-global.botname = "★DARKEXE BOT★" //ur bot name
+global.botname = "★White King★" //ur bot name
 global.websitex = "https://www.youtube.com/channel/UC8CNAgNIXy1O2vLBBSN7tcA" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/zlzQZvXH.mp4' } //gif and video menu
 global.packname = "\n\n\n\n\n\n\n🦄🦄🦄 "
-global.author = "Darkexe🔮"
-global.themeemoji = "🔖"
-global.reactmoji = "🤭"
-global.ownertag = ['917610569108'] //ur owner tag
-global.ownernummenu = ['917510569273'] //ur owner number in menu and all
-global.watermark = "©𝙳𝚊𝚛𝚔𝚎𝚡𝚎𝚋𝚘𝚝." //ur watermark
+global.author = "★White King★"
+global.themeemoji = "⭐"
+global.reactmoji = "❤️"
+global.ownertag = ['91711011108'] //ur owner tag
+global.ownernummenu = ['917510569273,18198033185,917356886454'] //ur owner number in menu and all
+global.watermark = "©White King." //ur watermark
 global.botscript = "https://www.youtube.com/watch?v=vXBO1zJbGJ4"
 global.linkz1 = "🚀"
 global.linkz2 = "🚀"
@@ -94,16 +94,16 @@ global.sessionName = "session"
 global.antitags = true
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.mess = {
-    success: 'Ok Set🌝✓',
+    success: 'Ok Done✓',
     admin: 'This feature is only for admins!',
-    botAdmin: 'Enna admin akada 🥲!',
+    botAdmin: 'Bot must be a admin first 🙂!',
     owner: 'This feature is only for owner',
     group: 'This feature is only for groups!',
     private: 'This feature is only for private chats!',
     bot: 'This feature is only for bot',
-    wait: 'Ninak enna therak onnu wait chey 😦....',
-    linkm: 'Link evide monwu🧐?',
-    error: 'Error 🥲!',
+    wait: '📌In Process ....',
+    linkm: 'Where is the link?',
+    error: 'Error !',
     ban: 'You have been banned by the owner, if you want to be unbanned, chat owner.',
     nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
     banChat: 'The bot was banned in this group, please contact the owner to unban'
